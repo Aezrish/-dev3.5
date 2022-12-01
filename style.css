@@ -1,0 +1,29 @@
+#id_p{
+   background-color: red;
+    color: white;
+}
+#h2{
+
+    position: relative;
+}
+body {
+    background-color: rgb(214, 191, 142);
+}
+.aside_bilgi{
+    margin-left: 800px;
+}
+#id_p2{
+    
+    background-color: red;
+    color: white;
+    border-style: ;
+}
+table tr{
+    text-decoration: underline;
+    color: red;
+
+}
+footer h2{
+    margin-left: 800px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
